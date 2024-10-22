@@ -1,4 +1,4 @@
-x = int(input ("what is your number"))
+x = int(input ())
 running_num = 0
 sum = 0
 for i in range (x):
