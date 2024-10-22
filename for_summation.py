@@ -1,7 +1,7 @@
-x = int(input ())
+num = int(input ())
 running_num = 0
 sum = 0
-for i in range (x):
+for i in range (num):
     running_num += 15
     sum += running_num
-print (sum)#for Summation code here
+print (sum)
